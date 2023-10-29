@@ -1,0 +1,122 @@
+@media (max-width:1100px) {
+	.first {
+		font-size: 2.3rem;
+
+	}
+
+	.second img {
+		width: 25vw;
+	}
+
+	.html {
+
+		font-size: 1.8rem;
+
+	}
+
+	.css {
+		font-size: 1.8rem;
+	}
+
+	.javascript {
+		font-size: 1.8rem;
+	}
+
+	.java {
+		font-size: 1.8rem;
+	}
+}
+
+@media(max-width:700px) {
+
+	.content h2 {
+		font-size: 1rem;
+	}
+
+	.content p {
+		font-size: 1rem;
+	}
+
+	.html {
+
+		font-size: 1.3rem;
+		margin: 1.5rem;
+
+
+	}
+
+	.css {
+		font-size: 1.3rem;
+		margin: 1.5rem;
+	}
+
+	.javascript {
+		font-size: 1.3rem;
+		margin: 1.5rem;
+	}
+
+	.java {
+		font-size: 1.3rem;
+		margin: 1.5rem;
+	}
+}
+
+@media(max-width:500px) {
+
+	.left li a {
+		font-size: 1.2rem;
+	}
+
+	.right li a {
+		font-size: 0.78rem;
+	}
+
+	.second {
+		display: none;
+	}
+
+	.secondsection {
+		flex-direction: column;
+		align-items: center;
+	}
+
+	.img-box {
+		width: 70vw;
+	}
+
+	.thirdsection {
+		height: 50vh;
+	}
+
+	.thirdsection div {
+		flex-direction: column;
+		align-items: flex-start;
+	}
+}
+
+@media (max-width:372px) {
+	.left li a {
+		font-size: 1rem;
+	}
+
+
+	.right li a {
+		margin: 0.44rem;
+	}
+}
+
+@media(max-width:280px) {
+	.left li a {
+		font-size: 0.8rem;
+	}
+
+
+	.right li a {
+		font-size: 0.69rem;
+		margin: 0.44rem;
+	}
+
+	.footer {
+		font-size: 1rem;
+	}
+}
